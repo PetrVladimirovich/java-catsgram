@@ -1,1 +1,1 @@
-# module2_catsgram
+# CatsGram Project
