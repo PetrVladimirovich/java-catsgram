@@ -4,46 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd82d6a4-92bd-485d-be8b-780821c7ab09" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/CatsgramApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/Constants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/controller/ErrorHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/controller/PostController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/controller/PostFeedController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/controller/SimpleController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/dao/FollowDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/dao/PostDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/dao/UserDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/dao/impl/FollowDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/dao/impl/PostDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/dao/impl/UserDaoImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/exception/IncorrectParameterException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/exception/InvalidEmailException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/exception/PostNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/exception/UserAlreadyExistException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/exception/UserNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/model/ErrorResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/model/FeedParams.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/model/Follow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/model/Post.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/service/FeedService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/service/HackCatService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/service/PostService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/ru/yandex/practicum/catsgram/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/ru/yandex/practicum/catsgram/CatsgramApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/TEST-ru.yandex.practicum.catsgram.CatsgramApplicationTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/surefire-reports/ru.yandex.practicum.catsgram.CatsgramApplicationTests.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="bd82d6a4-92bd-485d-be8b-780821c7ab09" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -78,17 +39,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/devi/practicum.yandex/Java/java-filmorate&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/devi/practicum.yandex/Java/module2_catsgram",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="CatsgramApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.yandex.practicum.catsgram.CatsgramApplication" />
@@ -130,5 +91,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
 </project>
